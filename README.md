@@ -24,7 +24,7 @@ Learn all the syntax you need to create tables in your HTMLT documents.
 - Project: [Wine Festival Schedule](https://github.com/thanhhff/Learn-HTML/tree/master/Tables/Wine-Festival-Schedule)
 ![](./Images/wine-festival.png)
 
-## Froms 
+## Forms 
 Take this course and learn about the inner workings of an HTML form! Learn how to create your own form and integrate HTML5 validations.
 - Lesson: HTML Forms
 - Lesson: Form Validation
