@@ -26,6 +26,8 @@ Learn all the syntax you need to create tables in your HTMLT documents.
 
 ## Forms 
 Take this course and learn about the inner workings of an HTML form! Learn how to create your own form and integrate HTML5 validations.
+
+- Cheatsheet: https://www.codecademy.com/learn/learn-html/modules/learn-html-forms/cheatsheet
 - Lesson: HTML Forms
 - Lesson: Form Validation
 - Quiz: HTML Forms
