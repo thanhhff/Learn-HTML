@@ -29,6 +29,8 @@ Take this course and learn about the inner workings of an HTML form! Learn how t
 
 - Cheatsheet: https://www.codecademy.com/learn/learn-html/modules/learn-html-forms/cheatsheet
 - Lesson: HTML Forms
+![](./Images/davies-burgers.png)
 - Lesson: Form Validation
+![](Images/guess-the-right-number.png)
 - Quiz: HTML Forms
 - Project: From a Story
