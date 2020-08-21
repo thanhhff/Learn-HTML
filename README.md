@@ -34,3 +34,9 @@ Take this course and learn about the inner workings of an HTML form! Learn how t
 ![](Images/guess-the-right-number.png)
 - Quiz: HTML Forms
 - Project: From a Story
+![](Images/form-a-story.png)
+
+## Semantic HTML
+- Lesson: Semantic HTML
+- Quiz: Semantic HTML
+- Project: New York City Blog
