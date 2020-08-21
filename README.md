@@ -37,6 +37,9 @@ Take this course and learn about the inner workings of an HTML form! Learn how t
 ![](Images/form-a-story.png)
 
 ## Semantic HTML
+
+- Cheatsheet: https://www.codecademy.com/learn/learn-html/modules/learn-semantic-html/cheatsheet
 - Lesson: Semantic HTML
 - Quiz: Semantic HTML
 - Project: New York City Blog
+![](Images/nyc.png)
